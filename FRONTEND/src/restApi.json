@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality.png",
+                "title": "Ensured quality",
+                "description": "the quality of all the products and food arranged in the events are top noch and premium." 
+            },
+            {
+                "id": 2,
+                "image": "./super.svg",
+                "title": "Special arrangements",
+                "description": "Event is planned according to clients demands and desires. All the special requests are served." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "There is never any delay in schedule of events." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./e1.jpeg",
+                "title": "Wedding Decore",
+                "category": "Wedding"
+            },
+            {
+                "id": 2,
+                "image": "./e2.jpeg",
+                "title": "Birthday Decore",
+                "category": "Birthday"
+            },
+            {
+                "id": 3,
+                "image": "./e3.jpeg",
+                "title": "Corperate Events",
+                "category": "Corperate"
+            },
+            {
+                "id": 4,
+                "image": "./e4.jpeg",
+                "title": "Corperate Events",
+                "category": "Corperate"
+            },
+            {
+                "id": 5,
+                "image": "./e5.jpeg",
+                "title": "Birthday Decore",
+                "category": "Birthday"
+            },
+            {
+                "id": 6,
+                "image": "./e6.jpeg",
+                "title": "Retairement Decore",
+                "category": "Retairement "
+            },
+            {
+                "id": 7,
+                "image": "./event1.jpeg",
+                "title": "Wedding Decore",
+                "category": "Wedding"
+            },
+            {
+                "id": 8,
+                "image": "./event2.jpeg",
+                "title": "Birthday Decore",
+                "category": "Birthday"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder "
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Co-Founder"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JO DOE",
+                "designation": "Manager"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Desinger"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Branches"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Team members"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "50",
+                "title": "Events planned"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
